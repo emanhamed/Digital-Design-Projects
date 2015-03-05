@@ -11,9 +11,9 @@
  **Thursday 5/3/2015 (First Assesment)** 
 
  **The approach that our group will follow in the digital design project 1:**
-- Our proup will follow the Waterfall model by which the progress will be flowing steadily downwards through the        phases of conception, analysis, design, implementation, testing and maintanance. 
+- Our proup will follow the Waterfall model while working on the project by which the progress will be flowing steadily downwards through the phases of conception, analysis, design, implementation, testing and maintanance. 
 - Now, we are in the conception and analysis phase. 
-- Throughout our research process, we could divide the project to three main parts: 
+- Throughout our research process, we could divide the project into three main parts: 
      * Reading a Verilog Gate Level Netlist and then converting it into a DAG. 
      * Applying a topological sorting algorithm on the constructed DAG.
      * The output of applying the algorithm on the DAG will be used to identify the logical level of each gate. 
@@ -24,6 +24,8 @@
 	http://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/GraphAlgor/topoSort.htm
 	http://homepage.cs.uiowa.edu/~hzhang/c19/ch11d.pdf
 	http://courses.cs.washington.edu/courses/cse326/03wi/lectures/RaoLect20.pdf
+- The programming Language Used : 
+     * We aren't still sure about which programming language we will use but most probably we will use matlab or Java. 
      
 
 
