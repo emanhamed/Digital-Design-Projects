@@ -1,14 +1,14 @@
-  ** First Activity on 3/3/2015**
+  **First Activity on 3/3/2015**
 * This the repository for Degital II projects. 
 * Team members are : 
     - Eman H.Ahmed              900114948
     - Abdelrahman El-Dallal     900115154
     - Omar Khafagy              900115011
  * The first project will be : **Logic Circuit Schematic Beautifier**
- * ==================================================================================================
+ * ======================================================================
  **Thursday 5/3/2015 (First Assesment)** 
 
- **The approach that our group will follow in the digital design project 1: **
+ **The approach that our group will follow in the digital design project 1:**
 - Our proup will follow the Waterfall model by which the progress will be flowing steadily downwards through the        phases of conception, analysis, design, implementation, testing and maintanance. 
 - Now, we are in the conception and analysis phase. 
 - Throughout our research process, we could divide the project to three main parts: 
