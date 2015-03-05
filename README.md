@@ -5,7 +5,9 @@
     - Abdelrahman El-Dallal     900115154
     - Omar Khafagy              900115011
  * The first project will be : **Logic Circuit Schematic Beautifier**
- * ======================================================================
+ 
+   ======================================================
+
  **Thursday 5/3/2015 (First Assesment)** 
 
  **The approach that our group will follow in the digital design project 1:**
